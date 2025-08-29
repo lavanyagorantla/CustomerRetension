@@ -1,0 +1,20 @@
+# Customer Retention Analysis Dashboard
+
+An end-to-end **Business Intelligence project** focused on analyzing **customer churn, retention, and revenue trends** using Power BI, Python, and SQL.
+
+## 📊 Dashboard Features
+- **KPIs:** Total Revenue, Retention Rate, Churn Rate, Total Customers
+- **Visuals:**
+  - Monthly Revenue vs. Churn Rate
+  - Churn Rate by Region (APAC, EMEA, North America)
+  - Customer Segment → Product Category → Revenue Matrix
+- **Filters:** Year, Region, Product Category
+- **Drillthrough:** Customer-level history & churn details
+
+## 🛠 Tools & Technologies
+- Power BI (DAX, Data Modeling)
+- Python (pandas, scikit-learn, joblib for churn prediction)
+- SQL (ETL + data quality checks)
+- Optional Salesforce CRM integration (for real-time retention alerts)
+
+## 📂 Project Structure
